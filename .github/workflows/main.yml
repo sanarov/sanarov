@@ -34,7 +34,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-
-      # Runs Blog Post Workflow
-      - name: Blog Post Workflow
-      uses: gautamkrishnar/blog-post-workflow@1.4.8

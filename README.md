@@ -13,5 +13,4 @@ I'm Igor, and this is another GitHub profile 🤦‍♂️
 ***
 ### Blog posts ✍️
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://teletype.in/@sanarov_dev/YQUjKVzZt)
 <!-- BLOG-POST-LIST:END -->
