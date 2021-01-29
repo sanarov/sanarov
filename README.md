@@ -12,12 +12,12 @@ I'm Igor, and this is another GitHub profile 🤦‍♂️
 👉 [Check out my portfolio.](https://sanarov.dev/portfolio/ "Portfolio")
 
 ### Latest Blog Post 📣
-***
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### Social Link 🖱
-***
+
 <a href="https://sanarov.dev"><img src="./assets/icon/github.png" width="30" height="30"></a>
 <a href="https://sanarov.dev"><img src="./assets/icon/teletype.png" width="30" height="30"></a>
 <a href="https://sanarov.dev"><img src="./assets/icon/telegram.jpg" width="30" height="30"></a>
