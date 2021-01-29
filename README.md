@@ -1,1 +1,1 @@
-[![GitHub Banner](./assets/GitHubHeaderSanarov.gif)](https://sanarov.blog)
+[![GitHub Banner](./assets/GitHubHeaderSanarov.gif)](https://sanarov.dev)
