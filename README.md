@@ -2,7 +2,7 @@
 ### Hey, everybody. 👋 ###
 > A day in a carriage, two on foot.
 
-I'm Igor, and this is my GitHub page 🤦‍♂️
+I'm Igor, and this is my GitHub page 🤦‍♂️<br/>
 Trying to learn Python and GoLang 🕶<br/><br/>
 
 [Check out my portfolio.](https://sanarov.dev/portfolio/ "Portfolio")
