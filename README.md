@@ -10,3 +10,7 @@ I'm Igor, and this is another GitHub profile 🤦‍♂️
 * 🕊 How to reach me: <igor@sanarov.dev>
 
 👉 [Check out my portfolio.](https://sanarov.dev/portfolio/ "Portfolio")
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
