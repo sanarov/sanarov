@@ -1,6 +1,6 @@
 [![GitHub Banner Sanarov](./assets/GitHubHeaderSanarov.gif)](https://sanarov.dev)
 ### Hey, everybody. 👋 ###
-> Эй, друзья, мы не должны стареть в наших сердцах.
+> Hey pals, we must not grow old in our hearts.
 
 I'm Igor, and this is my GitHub page 🤦‍♂️ Trying to learn Python and GoLang 🕶
 <br/><br/>
