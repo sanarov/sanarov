@@ -1,5 +1,5 @@
 [![GitHub Banner Sanarov](./assets/GitHubHeaderSanarov.gif)](https://sanarov.dev)
-### Hey, everybody. 👋 ###
+### Hi there ![Hi there](./assets/hi.gif) ###
 
 I'm Igor, and this is another GitHub profile 🤦‍♂️ Trying to learn Python and GoLang 🕶
 <br/><br/>
