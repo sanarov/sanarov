@@ -3,7 +3,7 @@
 
 I'm Igor, and this is another GitHub profile 🤦‍♂️
 
-> Hey pals, we must not grow old in our hearts.
+> A day in a carriage, two on foot 🤙
 
 * 👆 I learned how to make GIFs
 * 🕶 I’m currently learning Python, Django, GoLang
