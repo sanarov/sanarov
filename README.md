@@ -18,7 +18,7 @@ I'm Igor, and this is another GitHub profile 🤦‍♂️
 
 ### Social Link 🖱
 
-<a href="https://sanarov.dev"><img src="./assets/icon/github.png" width="30" height="30"></a>
-<a href="https://sanarov.dev"><img src="./assets/icon/teletype.png" width="30" height="30"></a>
-<a href="https://sanarov.dev"><img src="./assets/icon/telegram.jpg" width="30" height="30"></a>
-<a href="https://sanarov.dev"><img src="./assets/icon/twitter.png" width="30" height="30"></a>
+<a href="https://github.com/sanarov"><img src="./assets/icon/github.png" width="30" height="30"></a>
+<a href="https://blog.sanarov.dev/"><img src="./assets/icon/teletype.png" width="30" height="30"></a>
+<a href="https://t.me/sanarov_dev"><img src="./assets/icon/telegram.jpg" width="30" height="30"></a>
+<a href="https://twitter.com/sanarov_dev"><img src="./assets/icon/twitter.png" width="30" height="30"></a>
