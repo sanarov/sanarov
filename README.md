@@ -11,4 +11,4 @@ I'm Igor, and this is another GitHub profile 🤦‍♂️
 
 <br/>
 
-[Check out my portfolio.](https://sanarov.dev/portfolio/ "Portfolio")
+👉 [Check out my portfolio.](https://sanarov.dev/portfolio/ "Portfolio")
