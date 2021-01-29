@@ -1,5 +1,5 @@
 [![GitHub Banner Sanarov](./assets/GitHubHeaderSanarov.gif)](https://sanarov.dev)
-### Hi there <img src="./assets/hi.gif" width="25" height="25">
+### Hi there <a href="https://sanarov.dev"><img src="./assets/hi.gif" width="25" height="25"></a>
 
 I'm Igor, and this is another GitHub profile 🤦‍♂️
 
