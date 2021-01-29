@@ -9,6 +9,4 @@ I'm Igor, and this is another GitHub profile 🤦‍♂️
 * 🕶 I’m currently learning Python, Django, GoLang
 * 🕊 How to reach me: <igor@sanarov.dev>
 
-<br/>
-
 👉 [Check out my portfolio.](https://sanarov.dev/portfolio/ "Portfolio")
