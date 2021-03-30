@@ -1,4 +1,4 @@
-[![GitHub Banner Sanarov](./assets/GitHubHeaderSanarov.gif)](https://sanarov.dev)
+[![GitHub Banner Sanarov](./assets/GitHubHeaderSanarov.png)](https://sanarov.dev)
 ### Hi there <a href="https://sanarov.dev"><img src="./assets/hi.gif" width="25" height="25"></a>
 
 I'm Igor, and this is another GitHub profile 🤦‍♂️
